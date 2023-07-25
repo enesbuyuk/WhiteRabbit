@@ -1,0 +1,240 @@
+{
+	"token": "MTAxNzE2NTc0NTE2MDk4MjY0OQ.GR7pTO.QOdbkPy2hKtveVyizCDSHdVSmWr8NpRScRYjQ8",
+	"varsayilanonek": "+",
+
+
+	"birim": "TWR",
+	"gunlukmiktar": "250",
+	"mesajbasinamiktar": "10",
+
+	"dhdiscord": "791984988412444712",
+	"rolkanali": "832206698961436682",
+	"seslikanal": "791984988886925357",
+
+
+	"yardimnormal": "`avatar` `öp` `hickey` `yala` `tokatla` `yumrukla` `sarıl` `paspas` `kelepçele` `gelhele` `özür` `ağla` `dodge` `sus` `cheers` `shot` `yak` `espri` `özlüsöz` `ters` `emojiyazi` `zarat` `tarot` `davetet` `ayarlar` `sunucubilgi` `sunucular` `yapımcı`",
+	"yardimbanka": "`+banka` `+banka gonder`",
+	"yardimayarlar": "`kayıt` `sifirla` `onek` `gelengiden` `gelengidenfoto` `kayitsistemi` `log` `chat` `rol` `koruma` `kapat gelengiden` `kapat kayit` `kapat log` `kapat rol` `kapat chat` `kapat koruma`",
+
+
+	"davet": "https://discord.com/oauth2/authorize?client_id=848836656248520744&scope=bot&permissions=8",
+	"destek": "https://dsc.gg/donanim",
+	"botisim": "The White Rabbit",
+	"botrenk": "0x0099FF",
+	"botgif": "https://i.pinimg.com/originals/6a/e0/3b/6ae03bcc79103ccd926b6c6d18f6a4b6.gif",
+	"aktivite": [ "Follow The White Rabbit!", "+yardım", "+ayarlar", "+öp", "+tokatla", "+yumrukla", "+hickey", "+ağla", "+sus", "+cheers", "+shot", "+yak" ],
+	"defaultavatar": "https://c.tenor.com/Z4H2w7dmSGgAAAAM/error-april-fool.gif",
+
+	"hosgeldinfoto": "https://i.pinimg.com/originals/36/ff/a8/36ffa8e1ce80a7c7b10a33d939095ec0.gif",
+	"gulegulefoto": "https://media3.giphy.com/media/fxe8v45NNXFd4jdaNI/giphy.gif",
+	"kayitfoto": "https://compote.slate.com/images/f74bacae-1d55-474a-a557-65ae89ffbb79.gif",
+
+	"emojikayiteden": "<a:elmasgif:864909713505386526>",
+	"emojikayitedilen": "<a:onaylagif:853290976554516501>",
+	"emojihesaptarih": "<a:parrotgif:863369992292925440>",
+	"emojibekle": "<a:beklegif:863375093697740801>",
+
+
+
+
+	"rolyetkili": "● ▬▬▬▬ ● YETKİLER ● ▬▬▬▬ ●",
+	"rolekstra": "● ▬▬▬▬ ● EKSTRA ● ▬▬▬▬ ●",
+	"rolhakkinda": "● ▬▬▬▬ ● Hakkında ● ▬▬▬▬ ●",
+
+
+	"rolrenkemoji": "🌈",
+
+
+
+
+
+	"rolerkek": [ "862837002822877235" ],
+	"rolkiz": [ "862836994333868062" ],
+	"rolbelirtmek": [ "862837003367743489" ],
+
+
+	"rol1520": [ "887687827352064030" ],
+	"rol2025": [ "887687826425135175" ],
+	"rol2530": [ "887687825506566175" ],
+	"rol3035": [ "887687822268592139" ],
+	"rol3540": [ "887687824952942603" ],
+	"rol4045": [ "887687824164388876" ],
+	"rol4550": [ "887687823426195457" ],
+	"rol5055": [ "887687822826418217" ],
+
+
+	"rolkirmizi": [ "862833657784827904" ],
+	"rolbordo": [ "862833786210615306" ],
+	"rolkahverengi": [ "862834051760259093" ],
+	"rolturuncu": [ "862834144987185192" ],
+	"rolsari": [ "862834152326561822" ],
+	"rolayesil": [ "862865465889259540" ],
+	"rolyesil": [ "862834152789245962" ],
+	"rolcyan": [ "862834153364127765" ],
+	"rolmavi": [ "862834156928892998" ],
+	"rollacivert": [ "862868763690139648" ],
+	"rolmor": [ "862834297748717578" ],
+	"rolpembe": [ "862834298331332646" ],
+	"rolbeyaz": [ "862834302442274816" ],
+	"rolgri": [ "862834339400908830" ],
+	"rolsiyah": [ "862834342584516659" ],
+
+
+	"rolbilim": [ "862838017302593566" ],
+	"rolfelsefe": [ "862838024383102976" ],
+	"roledebiyat": [ "862838024820097094" ],
+	"rolmuzik": [ "862838027448614912" ],
+	"rolspor": [ "862838144163381297" ],
+	"roloyunlar": [ "862838144180289578" ],
+	"rolresim": [ "862838315635048478" ],
+
+	"rolexorcist": [ "886891428985311242" ],
+	"rolcsci": [ "931224211668746270" ],
+	"rolvalocu": [ "931224039555485756" ],
+	"rolgrandmaster": [ "931224552711782430" ],
+	"rolagent": [ "931224332615680042" ],
+
+
+
+
+	"gunaydin": [ "günaydın kral :sunny:", "günaydın knk :sunny:", "ooo günaydın ahbap :sunny:", "günaydın :sunny: :sunny: :sunny:" ],
+	"iyigeceler": [ "iyi geceler :first_quarter_moon_with_face: :first_quarter_moon_with_face: :first_quarter_moon_with_face:", "iyi geceler knk", "iyi gecelerrr :first_quarter_moon_with_face:" ],
+	"nasilsin": [ "bomba gibiyim", "überim hocam", "on numara herifim", "daha iyi olamazdım" ],
+	"iyiaksamlar": [ "iyi akşamlarr", "iyi akşamlar diliyorum mmuah :kiss:" ],
+	"sorucumleleri": [ "bilemedim kral", "tabii ki", "evet bro", "yess", "yep", "hayır", "ne yapacaksın?", "kesinlikle" ],
+	"gorusuruz": [ "görüşürüz", "hadi görüşürüz", "hadi by canımm" ],
+
+	"espriler": [
+		"Almanya'da Almanlar yaşıyorsa, Sakarya'da sakarlar mı yaşar?",
+		"-File çorap aldım. -File niye aldın? Kendine alsaydın ya",
+		"-Abi sana Sıla'nın selamı var. -Hangi Sıla? -Gayri Safi Milli HaSıla",
+		"Taşıma suyla neden değirmen dönmez? -Çünkü Taşıma-su bir Japon kızıdır. -Peki Taşıma-su annesinden nasıl su ister? -Matarama-su-ko.",
+		"- Fransız ihtilali neye karşı yapılmıştır? -Sabaha karşı",
+		"-Küçük su birikintisine ne denir? -Sucuk",
+		"Yerin kulağı vardır benim de kulağım var. O zaman ben yer miyim? Yemem.",
+		"En güzel çay hangi dağda içilir? Çay bar-dağı'nda",
+		"Ben kamyonu sürüyordum, leonardo da vinci."
+	],
+
+
+	"sozler": [
+		"Sacina dokunmayan kizlara dokunuyo ~Michael Haneke [Lyn]",
+
+		"Celal Şengör'ün aşk tanımı... ~lovecraftianism",
+		"Git kumda oyna, çöl bedevisi! ~chaisan",
+		"Görüntülü konuştuk sonra ayrıldık. ~lovecraftianism",
+		"İnsanın doğası hatalıdır. ~Avanguardia",
+		"Sıkma canını, okşa patlıcanını. ~Süpersabri",
+		"Çomarlara tımar eğitimi verecek halim yok. ~chaisan",
+		"Yemin ediyorum özene bezene yaratılmış. ~Sigortalı İsmail Abi",
+		"Alfalar online görünmez, hep yılan gibi izlerler. ~InspiredTiger (ALFA)",
+		"Düzgün biriyle evlenmezsem de taşıyıcı anne bulurum genleri güzel, nays. ~Michael Haneke [Lyn]",
+		"Ben gezegenleri insan mı yarattı dedim? ~Sigortalı İsmail Abi",
+		"Aramıza soğukluk girmesin yavrum yaklaş şöyle. ~Avanguardia",
+		"Avanguardia'ı an çomağı hazırla.",
+		"Cocuk ölümsüz olmak demek ~Michael Haneke [Lyn]",
+		"Nabza göre şerbet bitti. İçersen turşu suyu var. ~cammy",
+		"Bir sarışının açtığı yarayı esmer kapatamaz. ~Sigortalı İsmail Abi",
+		"Tiger Emlak'ın, satılık insanların yüreği ile işi olmaz.",
+		"Evi arabayı sat Amuga Coin'e bas. ~poyrazispir12",
+		"Hocam bir sonraki hayatında uzun boylu olacaksın takma kafaya. ~Dapeux",
+		"Nereye gidersen git tam buradasın işte ~Zer0",
+		"Benim adım hıdır, elimden gelen budur ~hıdır",
+		"Seçici olacaksın bu hayatta, alkolün sahtesi insanın kahpesi çarpar. ~Scmvr",
+		"Ölümden değil, bir türlü hayata başlayamamaktan kork. ~Dapeux"
+
+	],
+
+	"ozlusozler": [
+		"Hiçbir takımda oynamadığım için henüz on numara giymedim.",
+		"Fakir çalmasını iyi beceremediği için fakirdir.",
+		"Boş tencerenin yıkamayacağı iktidar yoktur. ~Süleyman Demirel",
+		"Oğlan dayıya, kız halaya çeker. ~Charles Darwin",
+		"Yatak odası takımını kız tarafı almalıdır. ~Sigmund Freud",
+		"Bir yemin ettim ki, dönemem. ~Hipokrat",
+		"Olm Amerika'da kızlar teklif ediyormuş. ~Kristof Kolomb",
+		"Ooo devrem nasılsın? ~Nikola Tesla"
+	],
+
+
+
+
+
+	"tarotkart": [
+		"https://www.falderyasi.com/medya/tarot/adalet-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/araba-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-altilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-beslisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-dokuzlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-dortlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-ikilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-kralicesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-onlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-sekizlisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-uclusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asalarin-yedilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/asilan-adam-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/ay-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/aziz-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/azize-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/buyucu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/degnek-asi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/degnek-krali-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/degnek-prensi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/degnek-sovalyesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/denge-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/ermis-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/guc-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/gunes-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/imparator-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/imparatorice-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/joker-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kader-carki-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kilic-prensi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-altilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-asi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-beslisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-dokuzlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-dortlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-ikilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-krali-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-kralicesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-onlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-sekizlisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-sovalyesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-uclusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kiliclarin-yedilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kule-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupa-krali-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupa-prensi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-altilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-asi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-beslisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-dokuzlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-dortlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-ikilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-onlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-sekizlisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-sovalyesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-uclusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupalarin-yedilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/kupaların-kralicesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/olum-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsim-prensi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-altilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-asi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-beslisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-dokuzlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-dortlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-ikilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-krali-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-onlusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-sovalyesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-uclusu-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlarin-yedilisi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlerin-kralicesi-tarot-karti-www.falderyasi.com.png",
+		"https://www.falderyasi.com/medya/tarot/tilsimlerin-sekizlisi-tarot-karti-www.falderyasi.com.png"
+	]
+
+}
+ 
